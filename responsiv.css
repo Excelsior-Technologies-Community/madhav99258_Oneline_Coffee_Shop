@@ -1,0 +1,30 @@
+@media screen and (max-width: 768px) {
+    .maincard{
+        flex-wrap: wrap;
+    }
+    #header {
+        
+        flex-wrap: wrap;
+        
+  }
+  .header1 {
+    flex-wrap: wrap;
+}
+
+
+.strip {
+    flex-wrap: wrap;
+}
+.fakeborder:before {
+    width: 100px;
+
+}
+
+.card{
+    flex-wrap: wrap;
+}
+
+
+}
+
+
